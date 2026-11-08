@@ -1,0 +1,6 @@
+{
+  "name": "AILinux Control Center",
+  "description": "A web dashboard for managing and interacting with the AILinux AI system, featuring chat, system monitoring, and deployment tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
